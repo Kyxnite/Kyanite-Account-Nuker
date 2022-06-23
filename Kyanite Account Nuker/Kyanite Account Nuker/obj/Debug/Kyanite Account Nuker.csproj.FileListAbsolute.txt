@@ -1,0 +1,14 @@
+C:\Users\Kyanite\source\repos\Kyanite Account Nuker\Kyanite Account Nuker\bin\Debug\Kyanite Account Nuker.exe.config
+C:\Users\Kyanite\source\repos\Kyanite Account Nuker\Kyanite Account Nuker\bin\Debug\Kyanite Account Nuker.exe
+C:\Users\Kyanite\source\repos\Kyanite Account Nuker\Kyanite Account Nuker\bin\Debug\Kyanite Account Nuker.pdb
+C:\Users\Kyanite\source\repos\Kyanite Account Nuker\Kyanite Account Nuker\bin\Debug\Anarchy.dll
+C:\Users\Kyanite\source\repos\Kyanite Account Nuker\Kyanite Account Nuker\bin\Debug\Guna.UI2.dll
+C:\Users\Kyanite\source\repos\Kyanite Account Nuker\Kyanite Account Nuker\obj\Debug\Kyanite Account Nuker.csproj.AssemblyReference.cache
+C:\Users\Kyanite\source\repos\Kyanite Account Nuker\Kyanite Account Nuker\obj\Debug\Kyanite Account Nuker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kyanite\source\repos\Kyanite Account Nuker\Kyanite Account Nuker\obj\Debug\Kyanite_Account_Nuker.Form1.resources
+C:\Users\Kyanite\source\repos\Kyanite Account Nuker\Kyanite Account Nuker\obj\Debug\Kyanite_Account_Nuker.Properties.Resources.resources
+C:\Users\Kyanite\source\repos\Kyanite Account Nuker\Kyanite Account Nuker\obj\Debug\Kyanite Account Nuker.csproj.GenerateResource.cache
+C:\Users\Kyanite\source\repos\Kyanite Account Nuker\Kyanite Account Nuker\obj\Debug\Kyanite Account Nuker.csproj.CoreCompileInputs.cache
+C:\Users\Kyanite\source\repos\Kyanite Account Nuker\Kyanite Account Nuker\obj\Debug\Kyanite Account Nuker.csproj.CopyComplete
+C:\Users\Kyanite\source\repos\Kyanite Account Nuker\Kyanite Account Nuker\obj\Debug\Kyanite Account Nuker.exe
+C:\Users\Kyanite\source\repos\Kyanite Account Nuker\Kyanite Account Nuker\obj\Debug\Kyanite Account Nuker.pdb
